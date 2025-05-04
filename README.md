@@ -1,1 +1,2 @@
 # Recommender-System
+This project involved building a recommendation engine based on collaborative filtering techniques. Using user-movie interaction data, I implemented a system to recommend movies to users based on similarity of interests and preferences. The system leveraged cosine similarity and matrix factorization techniques to deliver personalized recommendations. It was tested using sample datasets and visualized using libraries like Scikit-learn, Pandas, and Seaborn.
